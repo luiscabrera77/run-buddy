@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
 body {
   /* more on this crazy alphanumerical value in a minute! */
   color: #39a6b2;
@@ -255,7 +260,8 @@ section {
   font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p,
+.contact-info address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
