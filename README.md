@@ -13,4 +13,4 @@ https://luiscabrera77.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Luis
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, USA 
