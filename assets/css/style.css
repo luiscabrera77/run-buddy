@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
 body {
   /* more on this crazy alphanumerical value in a minute! */
   color: #39a6b2;
